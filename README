@@ -1,0 +1,23 @@
+# Projeto AluraBooks
+
+**Descrição:**
+
+Este projeto é uma aplicação web simples que permite gerenciar uma lista de livros, incluindo funcionalidades como:
+
+* Consumir dados de uma API.
+* Buscar livros por categoria.
+* Ordenar livros por preço.
+* Calcular o valor total de livros disponíveis.
+* Aplicar descontos.
+
+Este projeto fez parte dos meus exercicios de manipulação de arrays.
+
+**Tecnologias:**
+
+* **Frontend:** HTML, CSS, JavaScript
+
+**Instalação:**
+
+1. Clone este repositório:
+   ```bash
+   git clone 
